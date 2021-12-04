@@ -1,0 +1,6 @@
+.perspectiveDecoration {
+    position: sticky;
+    bottom: 0px;
+    background-color: hsl(195deg, 20%, 86%);
+    height: 40%;
+}
